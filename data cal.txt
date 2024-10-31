@@ -1,4 +1,4 @@
-ISIC_2019 
+#ISIC_2019 
 
 Total - 25332
 
@@ -12,9 +12,9 @@ AK (Actinic keratosis)		- 867
 DF (Dermatofibroma)		- 239
 SCC (Squamous cell carcinoma)	- 628
 
+-------------------------------------------------
 
-
-HAM10000
+#HAM10000
 
 Total - 10015
 
