@@ -1,0 +1,28 @@
+ISIC_2019 
+
+Total - 25332
+
+MEL (Melanoma)			- 4522
+NV (Melanocytic nevus)		- 12875
+BKL (Benign keratosis)		- 2624
+VASC (Vascular lesion)		- 253
+
+BCC (Basal cell carcinoma)	- 3323
+AK (Actinic keratosis)		- 867
+DF (Dermatofibroma)		- 239
+SCC (Squamous cell carcinoma)	- 628
+
+
+
+HAM10000
+
+Total - 10015
+
+MEL 	- 1113
+NV 	- 6705
+BKL 	- 1099
+VASC 	- 142
+
+BCC 	- 514
+DF 	- 115
+Akiec 	- 327
